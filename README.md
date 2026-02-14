@@ -5,9 +5,10 @@ Simple library management system with a terminal based UI. Allows 2 types of use
 - Add and manage/edit books
 - Borrow and return books
 - User and librarian records
-- Borrowing log with date and time
-- Data persistence using CSV files
-- Terminal-based interface
+- Borrowing log with datetimestamp
+- Data persistence using CSV files.
+- User records, books, and borrowing logs are automatically saved to csv files and automatically loaded to program runtime memory when running
+- Terminal based UI
 
 # Customers
 - View avaialable books
@@ -21,8 +22,6 @@ Simple library management system with a terminal based UI. Allows 2 types of use
 - View borrowing/returning logs with user info and datetime of operation
 - Add new books
 - Edit existing book information
-
-# User records, books, and borrowing logs are saved to csv files
 
 # Structure
 - main.py : main program & UI
