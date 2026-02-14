@@ -1,0 +1,8 @@
+Email,Name,BookID,Borrow_or_Return,DateTimeStamp
+cust1@gmail.com,Customer1,1001,borrow,14-02-2026 16:10:57
+cust1@gmail.com,Customer1,1003,borrow,14-02-2026 16:11:10
+cust2@gmail.com,Customer2,1003,borrow,14-02-2026 16:11:58
+cust3@gmail.com,Customer3,1003,borrow,14-02-2026 16:14:34
+cust1@gmail.com,Customer1,1003,return,14-02-2026 16:15:06
+rawan@email.com,rawan,1001,borrow,14-02-2026 16:49:37
+rawan@email.com,rawan,1001,return,14-02-2026 16:49:58
