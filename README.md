@@ -18,7 +18,7 @@ Simple library management system with a terminal based UI. Allows 2 types of use
 # Librarians
 - View all books with their available quantities
 - View names and emails of all customers and librarians that have used the system
-- View books currntly borrowed by a certain user
+- View books currently borrowed by a certain user
 - View borrowing/returning logs with user info and datetime of operation
 - Add new books
 - Edit existing book information
