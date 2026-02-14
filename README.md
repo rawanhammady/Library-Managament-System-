@@ -25,13 +25,13 @@ Simple library management system with a terminal based UI. Allows 2 types of use
 
 # Structure
 - main.py : main program & UI
-- Abstract.py : Blueprint for customer and libarrain classes and methods
+- Abstract.py : Blueprint for customer and librarian classes and methods
 - Customer.py : customer class. Methods that can be used by cutomers
 - Librarian.py : librarian class. Methods that can be used by librarians
 - file_handling.py : includes all functions that interact with the csv files
 - library_memory.py : contains lists/dictionaries that represent program memomry. Existing records are automatically loaded from csv files into them
 - BooksRecords.csv : Record of books at the library. Contains: bookID (automatic generation upon book additon), title, author, price, and quantity
-- UserRecords.csv : Record of all users that ahve used the system. Contains: name, email, and user type (customer/librarian)
+- UserRecords.csv : Record of all users that have used the system. Contains: name, email, and user type (customer/librarian)
 - BorowingRecords.csv : Log of all borrowing/returning operations by cutomers. Contains: email, name, bookID, operation (borrow/return), datetimestamp
 
 # How to Run
