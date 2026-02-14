@@ -11,7 +11,7 @@ Simple library management system with a terminal based UI. Allows 2 types of use
 - Terminal based UI
 
 # Customers
-- View avaialable books
+- View available books
 - Borrow and return books
 - View the books currently borrowed by them
 
